@@ -1,3 +1,3 @@
 # SoundCloudPy
 Download Playlists from SoundCloud
-Currently Downloads all songs in your first playlist
+\nCurrently Downloads all songs in your first playlist
